@@ -1,6 +1,3 @@
-# AJ-Cache-Caffeine-Redis
-Reactor模式缓存项目，一级缓存为Caffeine，二级缓存为Redis。
-
 > 前置知识
 ```bash
 1.编写SpringBoot Starter
@@ -14,3 +11,5 @@ Reactor模式缓存项目，一级缓存为Caffeine，二级缓存为Redis。
 1.代码中已经尽量加了尽量多的注解。
 2.此项目只支持reactor模式
 ```
+
+> 使用方法

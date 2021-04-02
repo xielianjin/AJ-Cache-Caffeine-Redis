@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="be08d10e-2306-4089-b715-8a343ee68821" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../work/soft/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="$PROJECT_DIR$/../../work/soft/apache-maven-3.6.3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1qbpQdbhlnmkIk6w51rFyqeFzkh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be08d10e-2306-4089-b715-8a343ee68821" name="Default Changelist" comment="" />
+      <created>1617358128236</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617358128236</updated>
+      <workItem from="1617358129527" duration="2531000" />
+      <workItem from="1617360889812" duration="34000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1354" height="214" key="GridCell.Tab.0.bottom" timestamp="1617360761863">
+      <screen x="42" y="25" width="1398" height="875" />
+    </state>
+    <state width="1354" height="214" key="GridCell.Tab.0.bottom/42.25.1398.875@42.25.1398.875" timestamp="1617360761863" />
+    <state width="1354" height="214" key="GridCell.Tab.0.center" timestamp="1617360761862">
+      <screen x="42" y="25" width="1398" height="875" />
+    </state>
+    <state width="1354" height="214" key="GridCell.Tab.0.center/42.25.1398.875@42.25.1398.875" timestamp="1617360761862" />
+    <state width="1354" height="214" key="GridCell.Tab.0.left" timestamp="1617360761862">
+      <screen x="42" y="25" width="1398" height="875" />
+    </state>
+    <state width="1354" height="214" key="GridCell.Tab.0.left/42.25.1398.875@42.25.1398.875" timestamp="1617360761862" />
+    <state width="1354" height="214" key="GridCell.Tab.0.right" timestamp="1617360761863">
+      <screen x="42" y="25" width="1398" height="875" />
+    </state>
+    <state width="1354" height="214" key="GridCell.Tab.0.right/42.25.1398.875@42.25.1398.875" timestamp="1617360761863" />
+    <state x="182" y="142" key="new project wizard" timestamp="1617360380067">
+      <screen x="42" y="25" width="1398" height="875" />
+    </state>
+    <state x="182" y="142" key="new project wizard/42.25.1398.875@42.25.1398.875" timestamp="1617360380067" />
+  </component>
+</project>
