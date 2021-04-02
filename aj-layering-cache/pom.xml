@@ -18,8 +18,8 @@
   <description>多层级缓存</description>
 
   <modules>
-    <module>aj-cache-starter</module>
     <module>aj-cache-demo</module>
+    <module>aj-cache-spring-boot-starter</module>
   </modules>
 
   <properties>
